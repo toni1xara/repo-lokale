@@ -1,0 +1,76 @@
+- **Modeli Waterfall**
+
+Modeli Waterfall eshte nje metodologji e zhvillimit te projekteve qe ndjek nje shkalle lienare te fazave duke filluar nga analiza dhe planifikimi deri te implementimi dhe mbeshtetja
+
+- **Procesi Software**
+
+Procesi Software eshte nje sere operacionesh qe ndihmojne ne zhvillimin dhe testimin dhe mirembajtjen e programeve
+
+- **Software**
+
+Software eshte bashkesia e programeve dhe te dhenave qe krijojne funksionimin e nje PC ose nje paisjeje
+
+- **Parimet e SE**
+
+Parimet e SE jane udhezimet dhe praktikat qe perdoren per te zhvilluar , mirembajtur dhe permirsuar softwaren
+
+- **Software Design**
+
+Software Design perfshin procesin e krijimit te planit , te struktures dhe funksionalitetit te nje programi
+
+- **Nje specifikim** eshte nje dokument qe pershkruan nevojat dhe specifikat e nje projekti apo software
+
+---
+
+→ Koncepti (ideja fillestare ) analiza e kerkesave dhe percaktimi
+
+→ Requirements (kerkesat e end-user per vleresim)
+
+→ Design : Implementon (kod , integrim komponentesh )
+
+→ Testimi (kerkesat jane relaizuar)
+
+→ Delivery (dokumentim , trajnim perdoruesish)
+
+**Rolet ne nje projekt**
+
+- Projekti
+- Njerezit
+- Proçesi
+- Produkti
+
+**Sfidat qe na shfaqen gjate nje projekt**
+
+- Perpjektja intensive
+- Koha e harxhuar
+- Deshtimet
+- Kosto
+
+---
+
+1-Projekti , konceptet kryjesore per zhvillimin e nje projekti
+
+2-Fazat e realizimit te nje projekti
+
+3-Rolet kryjreosre ne nje projekt
+
+4-Sigurimi i cilesis se projektit , testimi , rishikimi
+
+5-Dokumentimi i progresit te projektit
+
+6-Ndarja e detyrave per pjestaret e ekipit te projektit 
+
+- **Një software** është një program ose aplikacion kompjuterik që është i dizajnuar për të kryer një set të caktuar të veprimeve ose funksioneve në pajtueshmëri me nevojat dhe kërkesat e përdoruesve.
+- **Planifikimi i një projekti** në fushën e softuerit përfshin identifikimin, organizimin dhe koordinimin e aktiviteteve dhe burimeve të nevojshme për të arritur qëllimet dhe objektivat e projektit në një mënyrë efektive dhe efikase.
+- **Modeli Waterfall** është një nga metodat e zhvillimit të softuerit, ku faza e caktuar e zhvillimit përparon në një mënyrë lineare, duke filluar nga analiza dhe planifikimi dhe duke vazhduar me fazat e projektimit, implementimit, testimin, dhe në fund, pranimin.
+- **Inxhinieria e softuerit** është fusha e studimit dhe praktikës së përdorimit të teknikave dhe metodave të ndryshme për të zhvilluar softuer të sigurtë, të qëndrueshëm dhe të efektshëm. Kjo përfshin të gjitha aktivitetet nga planifikimi dhe projektimi deri te zhvillimi, testimi, dhe mirëmbajtja e softuerit.
+- **Sistemet kritike** janë sisteme të cilat ofrojnë funksione apo shërbime të rëndësishme për sigurinë, sigurinë, shëndetin publik, ose infrastrukturën kritike. Tipet e sistemeve kritike mund të përfshijnë sisteme të kontrollit të trafikut ajror, sisteme të mbikqyrjes së sigurisë së infrastrukturës, ose sisteme të mbikqyrjes së shëndetit publik, për të përmendur disa.
+- **Një dizajn softueri** është një plan ose model për strukturën dhe funksionalitetin e një aplikacioni kompjuterik për të përmbushur qëllimet e tij.
+
+---
+
+- Modeli Waterfall
+
+Modeli Waterfall është një metodologji klasike e zhvillimit të software-it që përcakton një proces linear dhe sekuenca të qarta fazash.
+
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f5d2f00b-5d12-4e62-bdfc-8d5134589e6a/0475ec93-f03a-4982-9d94-3f46b519f069/Untitled.png)
